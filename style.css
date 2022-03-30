@@ -53,39 +53,62 @@ padding-left: 25em;
     font-size: 18px;
 }
 .head-two{
+    color: rgb(129, 124, 124);
     text-align: center;
 }
 .recipies{
+    color: rgb(176, 172, 172);
     text-align: center;
     padding-left: 28em;
     padding-right: 28em;
 }
 .flex-burger{
     display: flex;
-    padding: 11em;
-    padding-right: 10em;
+   padding-left: 3.5em;
+   margin: 10em;
 }
 .cheese-burger-one{
     width: 400px;
-    padding-right: 8em;
+    padding-right: 4em;
+    padding: 1em;
+    border: 5px solid rgb(168, 159, 159);
+    border-radius: 20px;
 }
 .cheese-burger-one img{
     width: 400px;
+    height: 300px;
 }
 .cheese-burger-one p{
     text-align: justify;
 }
 .cheese-burger-two{
     width: 400px;
+    border: 5px solid rgb(168, 159, 159);
+    border-radius: 20px;
+    padding: 1em;
+    margin-left: 4em;
 }   
 .cheese-burger-two img{
     width: 400px;
+    height: 300px;
 }
 .cheese-burger-three{
     width: 400px;
-    padding-left: 8em;
+    border: 5px solid rgb(168, 159, 159);
+    border-radius: 20px;
+    padding: 1em;
+    margin-left: 4em;
 }
 .cheese-burger-three img{
     width: 400px;
-    
+    height: 300px;
+}
+.buynow-button{
+    margin-left: 10em;
+    font-size: 15px;
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(orange, red);
+    padding: 8px 22px;
+    border-radius: 35px;
 }
