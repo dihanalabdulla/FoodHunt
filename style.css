@@ -30,3 +30,25 @@ span{
     padding: 8px 22px;
     border-radius: 35px;
 }
+
+
+.second-floor{
+    display: flex;
+  background-image: url(images/shapes/Frame\ 56.jpg);
+    background-repeat: no-repeat;
+}
+.half-width-two img{
+width: 40%;
+padding-top: 1em;
+padding-left: 25em;
+}
+.half-width-two{
+    width: 80%;
+    padding-right: 10em;
+    padding-left: em;
+    padding-top: 2em;
+    text-align: justify;   
+}
+.second-floor p{
+    font-size: 18px;
+}
