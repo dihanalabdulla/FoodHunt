@@ -52,3 +52,40 @@ padding-left: 25em;
 .second-floor p{
     font-size: 18px;
 }
+.head-two{
+    text-align: center;
+}
+.recipies{
+    text-align: center;
+    padding-left: 28em;
+    padding-right: 28em;
+}
+.flex-burger{
+    display: flex;
+    padding: 11em;
+    padding-right: 10em;
+}
+.cheese-burger-one{
+    width: 400px;
+    padding-right: 8em;
+}
+.cheese-burger-one img{
+    width: 400px;
+}
+.cheese-burger-one p{
+    text-align: justify;
+}
+.cheese-burger-two{
+    width: 400px;
+}   
+.cheese-burger-two img{
+    width: 400px;
+}
+.cheese-burger-three{
+    width: 400px;
+    padding-left: 8em;
+}
+.cheese-burger-three img{
+    width: 400px;
+    
+}
