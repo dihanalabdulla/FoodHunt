@@ -34,6 +34,7 @@ span{
 
 .second-floor{
     display: flex;
+    width: 100%;
   background-image: url(images/shapes/Frame\ 56.jpg);
     background-repeat: no-repeat;
 }
@@ -55,6 +56,9 @@ padding-left: 25em;
 .head-two{
     color: rgb(129, 124, 124);
     text-align: center;
+}
+.recipies-div{
+    width: 100%;
 }
 .recipies{
     color: rgb(176, 172, 172);
@@ -111,4 +115,30 @@ padding-left: 25em;
     background-image: linear-gradient(orange, red);
     padding: 8px 22px;
     border-radius: 35px;
+}
+.dribbble{
+    padding-left: 2em;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 800;
+    font-size: 24px;
+}
+.dribbble-p{
+   
+    font-family: 'Poppins', sans-serif;
+    font-weight: 800;
+    font-size: 16px;
+    color: rgb(106, 104, 104);
+}
+.social-m-details{
+    display: flex;
+    padding-left: 30em;
+    box-shadow: 1px 2px 8px;
+
+    
+}
+.social-media{
+    margin-left: 5em;
+    margin-right: 5em;
+    padding-top: 1em;
+    padding-right: qem;
 }
